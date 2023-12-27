@@ -1,6 +1,3 @@
-  ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GreyWind)
-
-
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
