@@ -1,14 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/384f91c6-4eee-411f-8f3b-1b691f58a544.svg)](https://wakatime.com/@384f91c6-4eee-411f-8f3b-1b691f58a544)
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   4 hrs 19 mins       █████████████████████████   99.66 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-```
-
 
 <!--END_SECTION:waka-->
 
