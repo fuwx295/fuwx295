@@ -5,7 +5,8 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     8 mins              ████████████████████░░░░░   79.05 % 
+Bash                     2 mins              █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
 ```
 
 
