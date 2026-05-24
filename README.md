@@ -1,6 +1,17 @@
 [![wakatime](https://wakatime.com/badge/user/384f91c6-4eee-411f-8f3b-1b691f58a544.svg)](https://wakatime.com/@384f91c6-4eee-411f-8f3b-1b691f58a544)
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   18 hrs              ██████████████████░░░░░░░   71.31 % 
+Other                    2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+C++                      2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+Rust                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Git Config               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+```
+
 
 <!--END_SECTION:waka-->
 
