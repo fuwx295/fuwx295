@@ -5,11 +5,11 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               7 hrs 33 mins       ███████████░░░░░░░░░░░░░░   42.26 % 
-Markdown                 2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-YAML                     2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Go                       2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-TypeScript               1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+JavaScript               7 hrs 33 mins       ███████████░░░░░░░░░░░░░░   42.34 % 
+Markdown                 2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+YAML                     2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Go                       2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+TypeScript               1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
 ```
 
 
