@@ -1,17 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/384f91c6-4eee-411f-8f3b-1b691f58a544.svg)](https://wakatime.com/@384f91c6-4eee-411f-8f3b-1b691f58a544)
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               2 hrs               ████████░░░░░░░░░░░░░░░░░   33.42 % 
-Markdown                 1 hr 42 mins        ███████░░░░░░░░░░░░░░░░░░   28.51 % 
-JavaScript               1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-Python                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Go                       24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-```
-
 
 <!--END_SECTION:waka-->
 
