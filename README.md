@@ -1,38 +1,37 @@
 [![wakatime](https://wakatime.com/badge/user/384f91c6-4eee-411f-8f3b-1b691f58a544.svg)](https://wakatime.com/@384f91c6-4eee-411f-8f3b-1b691f58a544)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-386%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-386%20hrs%2050%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   35.80 % 
-Markdown                 2 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   26.53 % 
-TOML                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Bash                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Other                    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Markdown                 1 hr 1 min          ██████████████░░░░░░░░░░░   55.46 % 
+Other                    27 mins             ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
+Python                   19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 43 mins (100.0%)
+⏱ AI Coding Time: 1 hr 51 mins (100.0%)
 
-✍️ 4,742 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 639 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 127,291,698 Input Tokens, 480,164 Output Tokens
+🔤 38,690,422 Input Tokens, 94,536 Output Tokens
 
-💵 $650.70 Estimated AI Cost This Week
+💵 $196.29 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 41 AI Prompts
+🧠 8 AI Sessions, 11 AI Prompts
 
-GPT                      4,872 lines         █████████████████████████   100.00 % 
+GPT                      663 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 220 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📄 Detailed Prompter — average 1,175 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
