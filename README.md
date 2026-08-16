@@ -7,7 +7,7 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     39 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
