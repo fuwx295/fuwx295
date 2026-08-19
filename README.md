@@ -7,32 +7,32 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 24 hrs 51 mins      ██████████░░░░░░░░░░░░░░░   41.31 % 
-Python                   13 hrs 7 mins       █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-Go                       12 hrs 29 mins      █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-TypeScript               5 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-JavaScript               3 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Markdown                 19 hrs 50 mins      █████████░░░░░░░░░░░░░░░░   37.21 % 
+Python                   13 hrs              ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
+Go                       12 hrs 35 mins      ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
+TypeScript               4 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+JavaScript               1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 59 hrs 29 mins (98.89%)
+⏱ AI Coding Time: 52 hrs 40 mins (98.75%)
 
-✍️ 40,993 lines written by AI, 52 lines written by hand (99.87% AI-written)
+✍️ 39,955 lines written by AI, 52 lines written by hand (99.87% AI-written)
 
-🔤 326,798,961 Input Tokens, 8,771,614 Output Tokens
+🔤 338,105,300 Input Tokens, 7,837,283 Output Tokens
 
-💵 $1432.35 Estimated AI Cost This Week
+💵 $1288.43 Estimated AI Cost This Week
 
-🧠 152 AI Sessions, 319 AI Prompts
+🧠 160 AI Sessions, 329 AI Prompts
 
-GPT                      45,205 lines        █████████████████████████   99.74 % 
-Codex-Vscode             117 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+GPT                      43,291 lines        █████████████████████████   99.73 % 
+Codex-Vscode             117 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.87% of written lines came from AI
-📚 Verbose Prompter — average 5,843 characters per prompt
+📚 Verbose Prompter — average 6,236 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.15% of changed lines were hand-edited
 ```
