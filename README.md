@@ -7,19 +7,19 @@
 
 ```text
 💬 Programming Languages: 
-Other                    10 hrs 21 mins      ██████████░░░░░░░░░░░░░░░   40.12 % 
-Markdown                 4 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-Go                       4 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Git Config               2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-YAML                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Other                    10 hrs 30 mins      ██████████░░░░░░░░░░░░░░░   39.79 % 
+Markdown                 4 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Go                       4 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Git Config               2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+YAML                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 47 mins (99.82%)
+⏱ AI Coding Time: 25 hrs 47 mins (97.61%)
 
-✍️ 1,369 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,369 lines written by AI, 48 lines written by hand (96.61% AI-written)
 
 🔤 9,646,282 Input Tokens, 713,497 Output Tokens
 
@@ -31,10 +31,10 @@ GPT                      1,404 lines         ███████████�
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
+🤖 AI-Driven — 96.61% of written lines came from AI
 📚 Verbose Prompter — average 1,947 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 6.09% of changed lines were hand-edited
 ```
 
 
