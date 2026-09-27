@@ -7,34 +7,34 @@
 
 ```text
 💬 Programming Languages: 
-Other                    10 hrs 30 mins      ██████████░░░░░░░░░░░░░░░   39.79 % 
-Markdown                 4 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Go                       4 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Git Config               2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-YAML                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Other                    9 hrs 2 mins        ███████████░░░░░░░░░░░░░░   43.63 % 
+Markdown                 4 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+Go                       2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+YAML                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Python                   1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 47 mins (97.61%)
+⏱ AI Coding Time: 20 hrs 7 mins (97.05%)
 
-✍️ 1,369 lines written by AI, 48 lines written by hand (96.61% AI-written)
+✍️ 1,216 lines written by AI, 48 lines written by hand (96.2% AI-written)
 
-🔤 9,646,282 Input Tokens, 713,497 Output Tokens
+🔤 7,743,872 Input Tokens, 600,470 Output Tokens
 
-💵 $335.56 Estimated AI Cost This Week
+💵 $279.88 Estimated AI Cost This Week
 
-🧠 188 AI Sessions, 309 AI Prompts
+🧠 153 AI Sessions, 234 AI Prompts
 
-GPT                      1,404 lines         █████████████████████████   100.00 % 
+GPT                      1,235 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.61% of written lines came from AI
-📚 Verbose Prompter — average 1,947 characters per prompt
+🤖 AI-Driven — 96.2% of written lines came from AI
+📚 Verbose Prompter — average 2,017 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 6.09% of changed lines were hand-edited
+🚀 High AI Trust — 6.86% of changed lines were hand-edited
 ```
 
 
