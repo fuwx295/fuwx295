@@ -7,19 +7,18 @@
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 4 mins        ████████████░░░░░░░░░░░░░   48.89 % 
-TypeScript               1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   27.43 % 
-JavaScript               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-Markdown                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-Python                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+Other                    1 hr 55 mins        █████████████░░░░░░░░░░░░   52.67 % 
+TypeScript               1 hr 9 mins         ████████░░░░░░░░░░░░░░░░░   31.81 % 
+JavaScript               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 39 mins (86.22%)
+⏱ AI Coding Time: 3 hrs 39 mins (100.0%)
 
-✍️ 51 lines written by AI, 48 lines written by hand (51.52% AI-written)
+✍️ 51 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 1,287,667 Input Tokens, 114,844 Output Tokens
 
@@ -30,10 +29,10 @@ Python                   16 mins             ██░░░░░░░░░�
 GPT                      51 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 51.52% of written lines came from AI
+🤖 AI-Driven — 100.0% of written lines came from AI
 📚 Verbose Prompter — average 2,241 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 64.08% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
