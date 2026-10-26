@@ -7,33 +7,33 @@
 
 ```text
 💬 Programming Languages: 
-Other                    14 hrs 53 mins      █████████████░░░░░░░░░░░░   51.57 % 
-Python                   7 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   27.45 % 
-Markdown                 2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-Go                       1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-TypeScript               1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Other                    13 hrs 24 mins      █████████████░░░░░░░░░░░░   52.23 % 
+Python                   7 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   30.00 % 
+Markdown                 2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Go                       1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+TypeScript               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 51 mins (100.0%)
+⏱ AI Coding Time: 25 hrs 40 mins (100.0%)
 
-✍️ 4,820 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,441 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 17,512,383 Input Tokens, 2,360,229 Output Tokens
+🔤 15,935,622 Input Tokens, 2,240,003 Output Tokens
 
-💵 $580.40 Estimated AI Cost This Week
+💵 $543.18 Estimated AI Cost This Week
 
-🧠 101 AI Sessions, 154 AI Prompts
+🧠 85 AI Sessions, 125 AI Prompts
 
-GPT                      4,822 lines         █████████████████████████   100.00 % 
+GPT                      4,443 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,787 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📚 Verbose Prompter — average 1,825 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
